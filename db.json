@@ -48,8 +48,261 @@
                     "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
                 }
             ]
+        },
+        {
+            "_id": "h10084024",
+            "name": "Bohemian-chic mansion minutes from a sandy cove",
+            "description": "Tucked into a vast estate located in the Kolimpithres area of Paros, only a few minutes away from a sandy cove with crystal waters, Senna is a beautiful mansion that offers seclusion and tranquility. This exquisite vacation rental sits peacefully amid its untouched natural surroundings that offer a sense of harmony and balance. Mindful of the traditional Cycladic design, the architect has created a playful synthesis of interconnected cubes and smartly allocated internal patios.",
+            "type": "Villa",
+            "capacity": 10,
+            "price": 5007,
+            "amenities": [
+                "Saltwater pool",
+                "Wood-burning oven",
+                "Fully equipped kitchen",
+                "Ice cream maker",
+                "Formal dining area with seating for 8",
+                "Fireplace",
+                "Wifi",
+                "Air conditioning",
+                "Office"
+            ],
+            "mainImgUrl": "https://a0.muscache.com/im/pictures/c17c822d-0645-4d29-ac86-e880a1242314.jpg?im_w=1680",
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/6a580ebc-602e-44ec-8d3f-265e0c78f74f.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/71723219-c315-4661-a07d-ef83c3b33320.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/af972599-8f88-423d-83f8-2880ce554cee.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/7130a209-a851-4069-937e-4705bedd505c.jpg?im_w=1680",
+
+                "https://a0.muscache.com/im/pictures/35166f67-3909-4723-bd18-cee451f4c085.jpg?im_w=1680"
+            ],
+            "host": {
+                "_id": "h101",
+                "name": "Giannis",
+                "imgUrl": "https://a0.muscache.com/im/users/2153402/profile_pic/1368607645/original.jpg?aki_policy=profile_large"
+            },
+            "location": {
+                "name": "Trypiti, Paros, Greece",
+                "lat": 36.9823455,
+                "lng": 25.1893337
+            },
+            "scores": {
+                "accuracy": 5,
+                "cleanliness": 5,
+                "checkin": 5,
+                "communication": 5,
+                "location": 5,
+                "value": 5,
+                "rating": 4.99
+            },
+            "reviews": [
+                {
+                    "_id": "61992538",
+                    "createdAt": "2020-05-17T11:32:00.000Z",
+                    "byUser": "miniuser",
+                    "description": "This is my favorite ever AirBnB. We stayed two weeks which is longer than the usual guest (I'm told) in Oía, but never once wished for less time there. Not only is the location beautiful with a stunning view of the caldera to wake up to each morning, the house itself is very cozy with lots of comfortable space. The showers were fantastic, the kitchen more than enough for a holiday. Giannis is extraordinarily helpful. He helped set up our transfers, our car and our catamaran trip (which, btw, far exceeded our expectations!) and this was extra good because it would have been difficult for us to find the cave house the first time without it, but only because we were not familiar with the village's layout. He responded quickly and thoroughly every time we had questions and even took took the time to call us to check in to see if there was anything else he could do. His associates, Dana and Dimitri, were also incredibly warm and helpful with plenty of suggestions for out-of-the-neighborhood restaurants and beaches. The whole experience with Giannis and Hector Cave House changed our holiday from merely great to amazingly memorable. Thank you, Giannis!"
+                }
+            ]
+        },
+        {
+            "_id": "h10084025",
+            "name": "Clorox Clean Flexible Single Family Home",
+            "description": "Dubbed a \"little bit of Paris\" on Nob Hill, by the San Francisco Chronicle, our home is a tiny little haven close to many of the charming elements and business hubs of San Francisco.",
+            "type": "Entire home",
+            "capacity": 4,
+            "price": 350,
+            "amenities": [
+                "Cable TV",
+                "Wifi",
+                "Air conditioning",
+                "Kitchen",
+                "Laptop-friendly workspace"
+            ],
+            "mainImgUrl": "https://a0.muscache.com/im/pictures/cfa11360-c7fb-421d-af4c-c0baaa0ce07a.jpg?im_w=1680",
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/501f457d-862d-4769-a503-2088f2288701.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/15e07368-cf0b-43d6-9d31-d721bcd9ed69.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/79a91d54-3c26-4726-afeb-b24d6ce3fb61.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/2520d6bd-435d-49cd-952c-dac001edb99c.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/101050837/5cd52d5e_original.jpg?im_w=1680"
+            ],
+            "host": {
+                "_id": "h103",
+                "name": "Kurt & Abby",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/1b650d4a-9d3a-4f49-92f3-ec6168ff64f4.jpg?im_w=240"
+            },
+            "location": {
+                "name": "Paris",
+                "lat": -43.4311123147628,
+                "lng": -23.0003579266092
+            },
+            "scores": {
+                "accuracy": 5,
+                "cleanliness": 4,
+                "checkin": 5,
+                "communication": 5,
+                "location": 5,
+                "value": 5,
+                "rating": 4.88
+            },
+            "reviews": [
+                {
+                    "_id": "61992538",
+                    "createdAt": "2016-02-10T05:00:00.000Z",
+                    "byUser": "miniuser",
+                    "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
+                }
+            ]
+        },
+        {
+            "_id": "h10084023",
+            "name": "City center private room with bed",
+            "description": "House is located 5mins walk from Sham Shui Po and Prince Edward MTR. The private room has a single bed and a big closet, with window. You can enjoy the living area, kitchen and bathroom.  Speaks great Eng, Mandarin & Cantonese.Lots of restaurant here",
+            "type": "Apartment",
+            "capacity": 5,
+            "price": 59,
+            "amenities": [
+                "Cable TV",
+                "Wifi",
+                "Air conditioning",
+                "Kitchen",
+                "Elevator"
+            ],
+            "mainImgUrl": "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large"
+            ],
+            "host": {
+                "_id": "h101",
+                "name": "Yi",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/a204d442-1ae1-47fc-8d26-cf0ff9efda1b.jpg?aki_policy=profile_x_medium"
+            },
+            "location": {
+                "name": "Paris",
+                "lat": -43.4311123147628,
+                "lng": -23.0003579266092
+            },
+            "scores": {
+                "accuracy": 5,
+                "cleanliness": 4,
+                "checkin": 5,
+                "communication": 5,
+                "location": 5,
+                "value": 5,
+                "rating": 4.88
+            },
+            "reviews": [
+                {
+                    "_id": "61992538",
+                    "createdAt": "2016-02-10T05:00:00.000Z",
+                    "byUser": "miniuser",
+                    "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
+                }
+            ]
+        },
+        {
+            "_id": "h10084023",
+            "name": "City center private room with bed",
+            "description": "House is located 5mins walk from Sham Shui Po and Prince Edward MTR. The private room has a single bed and a big closet, with window. You can enjoy the living area, kitchen and bathroom.  Speaks great Eng, Mandarin & Cantonese.Lots of restaurant here",
+            "type": "Apartment",
+            "capacity": 5,
+            "price": 59,
+            "amenities": [
+                "Cable TV",
+                "Wifi",
+                "Air conditioning",
+                "Kitchen",
+                "Elevator"
+            ],
+            "mainImgUrl": "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large"
+            ],
+            "host": {
+                "_id": "h101",
+                "name": "Yi",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/a204d442-1ae1-47fc-8d26-cf0ff9efda1b.jpg?aki_policy=profile_x_medium"
+            },
+            "location": {
+                "name": "Paris",
+                "lat": -43.4311123147628,
+                "lng": -23.0003579266092
+            },
+            "scores": {
+                "accuracy": 5,
+                "cleanliness": 4,
+                "checkin": 5,
+                "communication": 5,
+                "location": 5,
+                "value": 5,
+                "rating": 4.88
+            },
+            "reviews": [
+                {
+                    "_id": "61992538",
+                    "createdAt": "2016-02-10T05:00:00.000Z",
+                    "byUser": "miniuser",
+                    "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
+                }
+            ]
+        },
+        {
+            "_id": "h10084023",
+            "name": "City center private room with bed",
+            "description": "House is located 5mins walk from Sham Shui Po and Prince Edward MTR. The private room has a single bed and a big closet, with window. You can enjoy the living area, kitchen and bathroom.  Speaks great Eng, Mandarin & Cantonese.Lots of restaurant here",
+            "type": "Apartment",
+            "capacity": 5,
+            "price": 59,
+            "amenities": [
+                "Cable TV",
+                "Wifi",
+                "Air conditioning",
+                "Kitchen",
+                "Elevator"
+            ],
+            "mainImgUrl": "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large"
+            ],
+            "host": {
+                "_id": "h101",
+                "name": "Yi",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/a204d442-1ae1-47fc-8d26-cf0ff9efda1b.jpg?aki_policy=profile_x_medium"
+            },
+            "location": {
+                "name": "Paris",
+                "lat": -43.4311123147628,
+                "lng": -23.0003579266092
+            },
+            "scores": {
+                "accuracy": 5,
+                "cleanliness": 4,
+                "checkin": 5,
+                "communication": 5,
+                "location": 5,
+                "value": 5,
+                "rating": 4.88
+            },
+            "reviews": [
+                {
+                    "_id": "61992538",
+                    "createdAt": "2016-02-10T05:00:00.000Z",
+                    "byUser": "miniuser",
+                    "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
+                }
+            ]
         }
     ],
+    
     "order": [
         {
             "_id": "o101",

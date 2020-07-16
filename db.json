@@ -1,0 +1,69 @@
+{
+    "house": [
+        {
+            "_id": "h10084023",
+            "name": "City center private room with bed",
+            "description": "House is located 5mins walk from Sham Shui Po and Prince Edward MTR. The private room has a single bed and a big closet, with window. You can enjoy the living area, kitchen and bathroom.  Speaks great Eng, Mandarin & Cantonese.Lots of restaurant here",
+            "type": "Apartment",
+            "capacity": 5,
+            "price": 59,
+            "amenities": [
+                "Cable TV",
+                "Wifi",
+                "Air conditioning",
+                "Kitchen",
+                "Elevator"
+            ],
+            "mainImgUrl": "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large"
+            ],
+            "host": {
+                "_id": "h101",
+                "name": "Yi",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/a204d442-1ae1-47fc-8d26-cf0ff9efda1b.jpg?aki_policy=profile_x_medium"
+            },
+            "location": {
+                "name": "Paris",
+                "lat": -43.4311123147628,
+                "lng": -23.0003579266092
+            },
+            "scores": {
+                "accuracy": 5,
+                "cleanliness": 4,
+                "checkin": 5,
+                "communication": 5,
+                "location": 5,
+                "value": 5,
+                "rating": 4.88
+            },
+            "reviews": [
+                {
+                    "_id": "61992538",
+                    "createdAt": "2016-02-10T05:00:00.000Z",
+                    "byUser": "miniuser",
+                    "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
+                }
+            ]
+        }
+    ],
+    "order": [
+        {
+            "_id": "o101",
+            "createdAt": "2016-02-10T05:00:00.000Z",
+            "checkIn": "2016-02-10T05:00:00.000Z",
+            "nightCount": 3,
+            "guestCount": 2,
+            "totalPrice": 250,
+            "byUser": "miniuser",
+            "house": "minihouse",
+            "status": "pending"
+        }
+    ],
+    "user": [
+
+    ]
+}

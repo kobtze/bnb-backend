@@ -5,8 +5,8 @@
             "name": "City center private room with bed",
             "description": "House is located 5mins walk from Sham Shui Po and Prince Edward MTR. The private room has a single bed and a big closet, with window. You can enjoy the living area, kitchen and bathroom.  Speaks great Eng, Mandarin & Cantonese.Lots of restaurant here",
             "type": "Apartment",
-            "capacity": 5,
-            "price": 59,
+            "capacity": 2,
+            "price": 89,
             "amenities": [
                 "Cable TV",
                 "Wifi",
@@ -27,9 +27,9 @@
                 "imgUrl": "https://a0.muscache.com/im/pictures/user/a204d442-1ae1-47fc-8d26-cf0ff9efda1b.jpg?aki_policy=profile_x_medium"
             },
             "location": {
-                "name": "Paris",
-                "lat": -43.4311123147628,
-                "lng": -23.0003579266092
+                "name": "Hong Kong",
+                "lat": 22.331381,
+                "lng": 114.162270
             },
             "scores": {
                 "accuracy": 5,
@@ -129,21 +129,21 @@
             "host": {
                 "_id": "h103",
                 "name": "Kurt & Abby",
-                "imgUrl": "https://a0.muscache.com/im/pictures/user/1b650d4a-9d3a-4f49-92f3-ec6168ff64f4.jpg?im_w=240"
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/1b650d4a-9d3a-4f49-92f3-ec6168ff64f4.jpg?aki_policy=profile_large"
             },
             "location": {
-                "name": "Paris",
-                "lat": -43.4311123147628,
-                "lng": -23.0003579266092
+                "name": "San Francisco, California, United States",
+                "lat": 37.7946366,
+                "lng": -122.4115074
             },
             "scores": {
-                "accuracy": 5,
-                "cleanliness": 4,
-                "checkin": 5,
-                "communication": 5,
-                "location": 5,
-                "value": 5,
-                "rating": 4.88
+                "accuracy": 4.8,
+                "cleanliness": 4.9,
+                "checkin": 4.9,
+                "communication": 4.9,
+                "location": 4.8,
+                "value": 4.7,
+                "rating": 4.85
             },
             "reviews": [
                 {

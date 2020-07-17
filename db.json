@@ -2,60 +2,66 @@
     "house": [
         {
             "_id": "h10084023",
-            "name": "City center private room with bed",
-            "description": "House is located 5mins walk from Sham Shui Po and Prince Edward MTR. The private room has a single bed and a big closet, with window. You can enjoy the living area, kitchen and bathroom.  Speaks great Eng, Mandarin & Cantonese.Lots of restaurant here",
-            "type": "Apartment",
+            "org-url": "https://www.airbnb.com/rooms/plus/23385083",
+            "name": "Rooftop Suite in Jaffa by the Beach",
+            "description": "Ascend a stylish U-shaped staircase to access a lofted sitting area to curl up with a book within this dynamic apartment offering an eclectic mix of antique and modern furnishings. Unwind on a roof terrace amid potted plants and elegant tile floors.",
+            "type": "Private room",
             "capacity": 2,
-            "price": 89,
+            "price": 116,
             "amenities": [
-                "Cable TV",
+                "Self check-in",
+                "Full Kitchen",
+                "Dishwasher",
                 "Wifi",
-                "Air conditioning",
-                "Kitchen",
-                "Elevator"
+                "TV",
+                "Coffee maker",
+                "Hair dryer",
+                "Iron",
+                "Air conditioning"
             ],
-            "mainImgUrl": "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+            "mainImgUrl": "https://a0.muscache.com/im/pictures/2d770298-3a8b-4772-8ca5-94134888eca5.jpg?aki_policy=xx_large",
             "imgUrls": [
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large"
+                "https://a0.muscache.com/im/pictures/e66c50bf-4cc6-4a40-8c31-1da28f0e5fef.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/300720a0-87e4-400a-ad3c-de564b271893.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/b807a1e4-dfb1-4f9d-8832-4a5b1a8e8452.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/000a8fb6-773b-4f82-be03-8392e5fb4a84.jpg?im_w=1680"
             ],
             "host": {
                 "_id": "h101",
-                "name": "Yi",
-                "imgUrl": "https://a0.muscache.com/im/pictures/user/a204d442-1ae1-47fc-8d26-cf0ff9efda1b.jpg?aki_policy=profile_x_medium"
+                "name": "Andrei",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/6dec9b4b-c4ef-4e8d-98a6-9cf137625124.jpg?im_w=240"
             },
             "location": {
-                "name": "Hong Kong",
-                "lat": 22.331381,
-                "lng": 114.162270
+                "name": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+                "lat": 32.054776,
+                "lng": 34.758798
             },
             "scores": {
                 "accuracy": 5,
-                "cleanliness": 4,
+                "cleanliness": 5,
                 "checkin": 5,
-                "communication": 5,
+                "communication": 4.95,
                 "location": 5,
                 "value": 5,
-                "rating": 4.88
+                "rating": 4.98
             },
             "reviews": [
                 {
                     "_id": "61992538",
-                    "createdAt": "2016-02-10T05:00:00.000Z",
-                    "byUser": "miniuser",
-                    "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
+                    "createdAt": "2018-12-10T05:00:00.000Z",
+                    "byUser": "Ilan (miniuser)",
+                    "description": "Wonderful hosts. Took great care of us, always with a nice smile, reply to each question and great local tips."
                 }
             ]
         },
         {
             "_id": "h10084024",
+            "org-url": "https://www.airbnb.com/luxury/listing/20471446",
             "name": "Bohemian-chic mansion minutes from a sandy cove",
             "description": "Tucked into a vast estate located in the Kolimpithres area of Paros, only a few minutes away from a sandy cove with crystal waters, Senna is a beautiful mansion that offers seclusion and tranquility. This exquisite vacation rental sits peacefully amid its untouched natural surroundings that offer a sense of harmony and balance. Mindful of the traditional Cycladic design, the architect has created a playful synthesis of interconnected cubes and smartly allocated internal patios.",
             "type": "Villa",
             "capacity": 10,
-            "price": 5007,
+            "price": 419,
             "amenities": [
                 "Saltwater pool",
                 "Wood-burning oven",
@@ -73,13 +79,13 @@
                 "https://a0.muscache.com/im/pictures/71723219-c315-4661-a07d-ef83c3b33320.jpg?im_w=1680",
                 "https://a0.muscache.com/im/pictures/af972599-8f88-423d-83f8-2880ce554cee.jpg?im_w=1680",
                 "https://a0.muscache.com/im/pictures/7130a209-a851-4069-937e-4705bedd505c.jpg?im_w=1680",
-
                 "https://a0.muscache.com/im/pictures/35166f67-3909-4723-bd18-cee451f4c085.jpg?im_w=1680"
             ],
             "host": {
-                "_id": "h101",
-                "name": "Giannis",
-                "imgUrl": "https://a0.muscache.com/im/users/2153402/profile_pic/1368607645/original.jpg?aki_policy=profile_large"
+                "org-url": "https://www.airbnb.com/rooms/441025",
+                "_id": "h102",
+                "name": "Tania",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/4af57fc9-e488-49e7-a44a-6a8e8545b82c.jpg?im_w=240"
             },
             "location": {
                 "name": "Trypiti, Paros, Greece",
@@ -99,13 +105,14 @@
                 {
                     "_id": "61992538",
                     "createdAt": "2020-05-17T11:32:00.000Z",
-                    "byUser": "miniuser",
-                    "description": "This is my favorite ever AirBnB. We stayed two weeks which is longer than the usual guest (I'm told) in Oía, but never once wished for less time there. Not only is the location beautiful with a stunning view of the caldera to wake up to each morning, the house itself is very cozy with lots of comfortable space. The showers were fantastic, the kitchen more than enough for a holiday. Giannis is extraordinarily helpful. He helped set up our transfers, our car and our catamaran trip (which, btw, far exceeded our expectations!) and this was extra good because it would have been difficult for us to find the cave house the first time without it, but only because we were not familiar with the village's layout. He responded quickly and thoroughly every time we had questions and even took took the time to call us to check in to see if there was anything else he could do. His associates, Dana and Dimitri, were also incredibly warm and helpful with plenty of suggestions for out-of-the-neighborhood restaurants and beaches. The whole experience with Giannis and Hector Cave House changed our holiday from merely great to amazingly memorable. Thank you, Giannis!"
+                    "byUser": "Stanley (miniuser)",
+                    "description": "Right off the main road in Oia. Balcony has great views - perfect for drinking wine during sunset and avoiding all the crowds."
                 }
             ]
         },
         {
             "_id": "h10084025",
+            "org-url": "https://www.airbnb.com/rooms/7930685",
             "name": "Clorox Clean Flexible Single Family Home",
             "description": "Dubbed a \"little bit of Paris\" on Nob Hill, by the San Francisco Chronicle, our home is a tiny little haven close to many of the charming elements and business hubs of San Francisco.",
             "type": "Entire home",
@@ -129,7 +136,7 @@
             "host": {
                 "_id": "h103",
                 "name": "Kurt & Abby",
-                "imgUrl": "https://a0.muscache.com/im/pictures/user/1b650d4a-9d3a-4f49-92f3-ec6168ff64f4.jpg?aki_policy=profile_large"
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/1b650d4a-9d3a-4f49-92f3-ec6168ff64f4.jpg?im_w=240"
             },
             "location": {
                 "name": "San Francisco, California, United States",
@@ -147,162 +154,122 @@
             },
             "reviews": [
                 {
-                    "_id": "61992538",
-                    "createdAt": "2016-02-10T05:00:00.000Z",
-                    "byUser": "miniuser",
-                    "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
+                    "_id": "61992532",
+                    "createdAt": "2020-04-20T05:00:00.000Z",
+                    "byUser": "Paul (miniuser)",
+                    "description": "It has such a charming and convenient location in SF. Kurt and Abby offered their home to health care workers for free during the covie 19 quarantine which speaks wonders to their character. Highly recommend this place!"
                 }
             ]
         },
         {
-            "_id": "h10084023",
-            "name": "City center private room with bed",
-            "description": "House is located 5mins walk from Sham Shui Po and Prince Edward MTR. The private room has a single bed and a big closet, with window. You can enjoy the living area, kitchen and bathroom.  Speaks great Eng, Mandarin & Cantonese.Lots of restaurant here",
-            "type": "Apartment",
-            "capacity": 5,
-            "price": 59,
+            "_id": "h10084026",
+            "org-url": "https://www.airbnb.com/rooms/1083329",
+            "name": "Amazing view - Moderne apartment",
+            "description": "Architectural house in north Iceland. This is one of the apartments in Villa Lola, located in Vaðlaheiði near Akureyri, the capital of north Iceland. The villa is located in the exclusive residence area of Akureyri. This location offers you a quiet atmosphere and a touch of the nature. You will have a view over the bay and Akureyri . In the winter time you can enjoy the aurora borealis and in the summer time the midnight sun.",
+            "type": "Entire home",
+            "capacity": 4,
+            "price": 184,
             "amenities": [
-                "Cable TV",
+                "Free parking on premises",
                 "Wifi",
-                "Air conditioning",
                 "Kitchen",
-                "Elevator"
+                "TV",
+                "Heating",
+                "Laptop-friendly workspace"
             ],
-            "mainImgUrl": "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+            "mainImgUrl": "https://a0.muscache.com/im/pictures/25625163/d4833a1c_original.jpg?im_w=1680",
             "imgUrls": [
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large"
+                "https://a0.muscache.com/im/pictures/25624825/6ef8e934_original.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/09cef96b-3288-4a5d-a9c5-16bc857379e9.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/97a4b034-6bdc-43ea-b2cc-0bcbbbf211b1.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/f7f904d1-e091-4263-8422-208867f5ceec.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/2b070d7d-52e0-4bd9-9c40-950ea5cbaf24.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/65f7c9ec-01a4-4fc7-be64-aa529a21456c.jpg?im_w=1680"
             ],
             "host": {
-                "_id": "h101",
-                "name": "Yi",
-                "imgUrl": "https://a0.muscache.com/im/pictures/user/a204d442-1ae1-47fc-8d26-cf0ff9efda1b.jpg?aki_policy=profile_x_medium"
+                "_id": "h104",
+                "name": "Haukur",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/fc563e9e-3a11-426b-9b3d-bc0ba48e8477.jpg?im_w=240"
             },
             "location": {
-                "name": "Paris",
-                "lat": -43.4311123147628,
-                "lng": -23.0003579266092
+                "name": "Akureyri, Northeast, Iceland",
+                "lat": 65.688492,
+                "lng": -18.126169
             },
             "scores": {
-                "accuracy": 5,
-                "cleanliness": 4,
-                "checkin": 5,
-                "communication": 5,
-                "location": 5,
-                "value": 5,
-                "rating": 4.88
+                "cleanliness": 4.8,
+                "accuracy": 4.8,
+                "communication": 4.6,
+                "location": 4.9,
+                "checkin": 4.7,
+                "value": 4.6,
+                "rating": 4.75
             },
             "reviews": [
                 {
-                    "_id": "61992538",
-                    "createdAt": "2016-02-10T05:00:00.000Z",
-                    "byUser": "miniuser",
-                    "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
+                    "_id": "61992542",
+                    "createdAt": "2020-03-20T05:00:00.000Z",
+                    "byUser": "Darcy (miniuser)",
+                    "description": "I’d you have an opportunity to book, I definitely would! Beautiful view, amazing amenities including a sound system with spotify connected and a TV with Netflix. Definitely keeping this space in mind when I return:)"
                 }
             ]
         },
         {
-            "_id": "h10084023",
-            "name": "City center private room with bed",
-            "description": "House is located 5mins walk from Sham Shui Po and Prince Edward MTR. The private room has a single bed and a big closet, with window. You can enjoy the living area, kitchen and bathroom.  Speaks great Eng, Mandarin & Cantonese.Lots of restaurant here",
-            "type": "Apartment",
-            "capacity": 5,
-            "price": 59,
+            "_id": "h10084027",
+            "org-url": "https://www.airbnb.com/rooms/4434852",
+            "name": "Riad Hadda Chambre Malika",
+            "description": "Welcome to Riad Hadda, Restored in the pure Moroccan tradition, the Riad is located in the heart of the ramparts of the Medina, near the Bab Aylen gate, the Royal Golf and a few minutes from the Jemma el Fna square.",
+            "type": "Private room",
+            "capacity": 3,
+            "price": 51,
             "amenities": [
-                "Cable TV",
                 "Wifi",
-                "Air conditioning",
-                "Kitchen",
-                "Elevator"
+                "Dryer",
+                "Hair Dryer",
+                "Breakfast",
+                "Hangers",
+                "Pool",
+                "Heating",
+                "Essentials"
             ],
-            "mainImgUrl": "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
+            "mainImgUrl": "https://a0.muscache.com/im/pictures/76170179/2a18aef0_original.jpg?im_w=1680",
             "imgUrls": [
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large"
+                "https://a0.muscache.com/im/pictures/57524083/183d2796_original.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/57510970/f800dfe2_original.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/55713786/ff9f6d90_original.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/91463801/14e3553a_original.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/57524017/8a4a47f2_original.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/2a7046ae-912f-477c-bb8a-ebd599a86b40.jpg?im_w=1680"
             ],
             "host": {
-                "_id": "h101",
-                "name": "Yi",
-                "imgUrl": "https://a0.muscache.com/im/pictures/user/a204d442-1ae1-47fc-8d26-cf0ff9efda1b.jpg?aki_policy=profile_x_medium"
+                "_id": "h105",
+                "name": "Mehdi",
+                "imgUrl": "https://a0.muscache.com/im/users/23023059/profile_pic/1414431305/original.jpg?im_w=240"
             },
             "location": {
-                "name": "Paris",
-                "lat": -43.4311123147628,
-                "lng": -23.0003579266092
+                "name": "Marrakesh, Marrakesh-Tensift-El Haouz, Morocco",
+                "lat": 31.625031,
+                "lng": -7.992960
             },
             "scores": {
-                "accuracy": 5,
-                "cleanliness": 4,
-                "checkin": 5,
-                "communication": 5,
-                "location": 5,
-                "value": 5,
-                "rating": 4.88
+                "cleanliness": 4.9,
+                "accuracy": 4.9,
+                "communication": 4.9,
+                "location": 4.3,
+                "checkin": 4.9,
+                "value": 4.8,
+                "rating": 4.84
             },
             "reviews": [
                 {
-                    "_id": "61992538",
-                    "createdAt": "2016-02-10T05:00:00.000Z",
-                    "byUser": "miniuser",
-                    "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
-                }
-            ]
-        },
-        {
-            "_id": "h10084023",
-            "name": "City center private room with bed",
-            "description": "House is located 5mins walk from Sham Shui Po and Prince Edward MTR. The private room has a single bed and a big closet, with window. You can enjoy the living area, kitchen and bathroom.  Speaks great Eng, Mandarin & Cantonese.Lots of restaurant here",
-            "type": "Apartment",
-            "capacity": 5,
-            "price": 59,
-            "amenities": [
-                "Cable TV",
-                "Wifi",
-                "Air conditioning",
-                "Kitchen",
-                "Elevator"
-            ],
-            "mainImgUrl": "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-            "imgUrls": [
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large",
-                "https://a0.muscache.com/im/pictures/e6275515-7d73-4a70-bdc4-39ba6497e7d3.jpg?aki_policy=large"
-            ],
-            "host": {
-                "_id": "h101",
-                "name": "Yi",
-                "imgUrl": "https://a0.muscache.com/im/pictures/user/a204d442-1ae1-47fc-8d26-cf0ff9efda1b.jpg?aki_policy=profile_x_medium"
-            },
-            "location": {
-                "name": "Paris",
-                "lat": -43.4311123147628,
-                "lng": -23.0003579266092
-            },
-            "scores": {
-                "accuracy": 5,
-                "cleanliness": 4,
-                "checkin": 5,
-                "communication": 5,
-                "location": 5,
-                "value": 5,
-                "rating": 4.88
-            },
-            "reviews": [
-                {
-                    "_id": "61992538",
-                    "createdAt": "2016-02-10T05:00:00.000Z",
-                    "byUser": "miniuser",
-                    "description": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
+                    "_id": "61992552",
+                    "createdAt": "2020-02-06T05:00:00.000Z",
+                    "byUser": "Marisa (miniuser)",
+                    "description": "The Riad Hadda is a homely and quiet escape from the busy medina. Service was exceptional and the rooms are clean and comfortable. The breakfast is delicious and it was great value for money"
                 }
             ]
         }
     ],
-    
     "order": [
         {
             "_id": "o101",
@@ -316,7 +283,5 @@
             "status": "pending"
         }
     ],
-    "user": [
-
-    ]
+    "user": []
 }

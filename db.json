@@ -10,14 +10,15 @@
             "price": 116,
             "amenities": [
                 "Self check-in",
-                "Full Kitchen",
-                "Dishwasher",
+                "Kitchen",
+                "Essentials",
+                "Air conditioning",
+                "Elevator",
                 "Wifi",
                 "TV",
-                "Coffee maker",
                 "Hair dryer",
                 "Iron",
-                "Air conditioning"
+                "Hangers"
             ],
             "mainImgUrl": "https://a0.muscache.com/im/pictures/2d770298-3a8b-4772-8ca5-94134888eca5.jpg?aki_policy=xx_large",
             "imgUrls": [
@@ -63,15 +64,16 @@
             "capacity": 10,
             "price": 419,
             "amenities": [
-                "Saltwater pool",
-                "Wood-burning oven",
-                "Fully equipped kitchen",
-                "Ice cream maker",
-                "Formal dining area with seating for 8",
-                "Fireplace",
+                "Pool",
+                "Indoor fireplace",
                 "Wifi",
+                "Hot tub",
+                "Cable TV",
                 "Air conditioning",
-                "Office"
+                "Kitchen",
+                "Laptop-friendly workspace",
+                "Washer",
+                "Dryer"
             ],
             "mainImgUrl": "https://a0.muscache.com/im/pictures/c17c822d-0645-4d29-ac86-e880a1242314.jpg?im_w=1680",
             "imgUrls": [
@@ -123,7 +125,10 @@
                 "Wifi",
                 "Air conditioning",
                 "Kitchen",
-                "Laptop-friendly workspace"
+                "Laptop-friendly workspace",
+                "Essentials",
+                "Iron",
+                "Hangers"
             ],
             "mainImgUrl": "https://a0.muscache.com/im/pictures/cfa11360-c7fb-421d-af4c-c0baaa0ce07a.jpg?im_w=1680",
             "imgUrls": [
@@ -175,7 +180,9 @@
                 "Kitchen",
                 "TV",
                 "Heating",
-                "Laptop-friendly workspace"
+                "Laptop-friendly workspace",
+                "Breakfast",
+                "Washer"
             ],
             "mainImgUrl": "https://a0.muscache.com/im/pictures/25625163/d4833a1c_original.jpg?im_w=1680",
             "imgUrls": [
@@ -225,7 +232,7 @@
             "amenities": [
                 "Wifi",
                 "Dryer",
-                "Hair Dryer",
+                "Hair dryer",
                 "Breakfast",
                 "Hangers",
                 "Pool",

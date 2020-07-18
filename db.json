@@ -48,10 +48,49 @@
             },
             "reviews": [
                 {
-                    "_id": "61992538",
-                    "createdAt": "2018-12-10T05:00:00.000Z",
-                    "byUser": "Ilan (miniuser)",
-                    "description": "Wonderful hosts. Took great care of us, always with a nice smile, reply to each question and great local tips."
+                    "_id": "r101",
+                    "createdAt": "2020-02-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Elliot",
+                        "imgUrl":"https://a0.muscache.com/im/users/2199463/profile_pic/1444523864/original.jpg?im_w=240"
+                    },
+                    "description": "Andrew and his wife were a warm and welcoming couple. The location was excellent to explore old Jaffa. We agree that it is best to take a cab to their home from the airport,especially if you have luggage,as it is hard to find. Also, be aware that you have several flights of stairs to climb,to get their apartment (no problem for us)"
+                },
+                {
+                    "_id": "r102",
+                    "createdAt": "2019-12-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Kate",
+                        "imgUrl":"https://a0.muscache.com/im/users/433185/profile_pic/1299726966/original.jpg?im_w=240"
+                    },
+                    "description": "A lovely home in an interesting and convenient neighborhood. Plus, there’s a wonderful yoga/Pilates studio across the street! The hosts were very warm and helpful."
+                },
+                {
+                    "_id": "r103",
+                    "createdAt": "2019-10-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Luwalhati",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/741211ea-0e84-4885-92c5-042ddcac1426.jpg?im_w=240"
+                    },
+                    "description": "Lovely home and family. After hours on a plane, the fresh air on the private personal terrace was restorative. The personal tour around town by Andrei helped to make me comfortable with them. Anna's chicken soup with fun crunchy bits strengthened me for 14 days of hard traveling. It was everything I hoped for in a stay with hosts present at an Airbnb."
+                },
+                {
+                    "_id": "r104",
+                    "createdAt": "2019-10-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Luwalhati",
+                        "imgUrl":"https://a0.muscache.com/im/users/19866044/profile_pic/1426989240/original.jpg?im_w=240"
+                    },
+                    "description": "The location is perfect for enjoying the north Jaffa Beach area with it's dining and lively, vibrant neighborhood. But is on a nice quiet street so the noise doesn't bother you for sleeping. If you arrive late at night as we did, the area can feel uncomfortable, but inside all is well. And in the daylight the area is just fine. Highly recommend and would definitely stay here again."
+                },
+                {
+                    "_id": "r105",
+                    "createdAt": "2019-08-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Bruce",
+                        "imgUrl":"https://a0.muscache.com/im/users/19866044/profile_pic/1426989240/original.jpg?im_w=240"
+                    },
+                    "description": "The location is perfect for enjoying the north Jaffa Beach area with it's dining and lively, vibrant neighborhood. But is on a nice quiet street so the noise doesn't bother you for sleeping. If you arrive late at night as we did, the area can feel uncomfortable, but inside all is well. And in the daylight the area is just fine. Highly recommend and would definitely stay here again."
                 }
             ]
         },
@@ -105,10 +144,41 @@
             },
             "reviews": [
                 {
-                    "_id": "61992538",
-                    "createdAt": "2020-05-17T11:32:00.000Z",
-                    "byUser": "Stanley (miniuser)",
-                    "description": "Right off the main road in Oia. Balcony has great views - perfect for drinking wine during sunset and avoiding all the crowds."
+                    "_id": "r201",
+                    "org-url": "https://www.airbnb.com/rooms/plus/23385083?source_impression_id=p3_1595091122_ciEGjYHpMeoVfL3S&guests=1&adults=1",
+                    "createdAt": "2019-08-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Bruce",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/b171e808-8bff-46c1-9951-6b3de1d41891.jpg?im_w=240"
+                    },
+                    "description": "We bonded from the first moment we met. Andrei and his wife are wonderful people always looking to help us."
+                },
+                {
+                    "_id": "r202",
+                    "createdAt": "2019-06-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Todd",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/b171e808-8bff-46c1-9951-6b3de1d41891.jpg?im_w=240"
+                    },
+                    "description": "This is a wonderful place to stay with all the conveniences. The upstairs terrace and living area is lovely. The hosts are very warm, welcoming and helpful. The location is a few minutes to the Mediterranean. A home away from home."
+                },
+                {
+                    "_id": "r203",
+                    "createdAt": "2019-04-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Guy",
+                        "imgUrl":"https://a0.muscache.com/im/users/3508867/profile_pic/1409027396/original.jpg?im_w=240"
+                    },
+                    "description": "Andrei and his wife are amazing people who really put their love and effort into the spot. The space is full of beautiful plants, with real wood floors, which gives the place a rustic and homie feel. The second floor (the area rented) has its own balcony, and you get tea and your own nespresso machine. It’s a really great spot I would recommend it for everybody!"
+                },
+                {
+                    "_id": "r204",
+                    "createdAt": "2018-11-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Kathleen",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/4ea61316-e7ad-44ad-888b-f5b547dc1bd7.jpg?im_w=240"
+                    },
+                    "description": "This was our favorite of all the home stays we have experienced (B&B, Home Away included). we have found charming ,clean accommodations or a great location elsewhere, but Andrei and Anna have all of it, along with the unexpected extras like a walking tour of the neighborhood and freshly baked goodies. A delightful stay with lovely people."
                 }
             ]
         },
@@ -214,10 +284,40 @@
             },
             "reviews": [
                 {
-                    "_id": "61992542",
-                    "createdAt": "2020-03-20T05:00:00.000Z",
-                    "byUser": "Darcy (miniuser)",
-                    "description": "I’d you have an opportunity to book, I definitely would! Beautiful view, amazing amenities including a sound system with spotify connected and a TV with Netflix. Definitely keeping this space in mind when I return:)"
+                    "_id": "r301",
+                    "createdAt": "2019-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Andrew & Adrienne",
+                        "imgUrl":"https://a0.muscache.com/im/users/2459920/profile_pic/1337926583/original.jpg?im_w=240"
+                    },
+                    "description": "I loved staying at Kurt and Abby’s place! It was perfectly clean and tidy. The location is amazing for walking to North Beach, around Nob Hill, and down to Polk. Kurt and Abby were quick to respond to questions and they’ve created a very simple and easy checkin/out process. Highly recommend!"
+                },
+                {
+                    "_id": "r302",
+                    "createdAt": "2019-04-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Caleb",
+                        "imgUrl":"https://a0.muscache.com/im/users/2459920/profile_pic/1337926583/original.jpg?im_w=240"
+                    },
+                    "description": "Kurt & Abby’s place was absolutely perfect for my extended stay in SF for work. They were incredibly easy to contact for check in and check out and answered all of my questions promptly. The house is tucked away in a cute alley off the main row which provides safety and privacy. Beautiful area in Nob Hill with walkable coffee shops/restaurants, etc. Cable car museum is right next door ( would have loved to go but, pandemic) Inside of the house has plenty of space for a couple or even 2 couples if needed. Super clean and stylish. Hope to stay here again one day!"
+                },
+                {
+                    "_id": "r303",
+                    "createdAt": "2019-12-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Beth",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/2f869090-9d5d-436a-b451-71d1bb993f27.jpg?im_w=240"
+                    },
+                    "description": "Cozy, charming, very clean and located in a great area. We had all we needed to cook in and eat as a family and we could safely walk to the grocery store, Union Square, and the Wharf. This is a great option in San Fran!"
+                },
+                {
+                    "_id": "r304",
+                    "createdAt": "2019-11-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Amanda",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/d1709854-9c6b-4257-a410-392ad162561d.jpg?im_w=240"
+                    },
+                    "description": "Absolutely amazing! The location-wow! So close to everything and a short Lyft/Uber ride to anywhere in town. Chinatown is just down the hill. Abby’s suggestions were spot on. We were able to go to a lot of the places she suggested during our short stay. Master bedroom-super comfy. The sound of the rail cars made for a perfect trip. Our kiddo loved the coziness of the downstairs bedroom. We researched hotels prior to booking. So glad we stayed here. It really made of feel like an authentic stay in San Fran. What a great experience for our first Air BNB stay!"
                 }
             ]
         },
@@ -269,10 +369,40 @@
             },
             "reviews": [
                 {
-                    "_id": "61992552",
-                    "createdAt": "2020-02-06T05:00:00.000Z",
-                    "byUser": "Marisa (miniuser)",
-                    "description": "The Riad Hadda is a homely and quiet escape from the busy medina. Service was exceptional and the rooms are clean and comfortable. The breakfast is delicious and it was great value for money"
+                    "_id": "r401",
+                    "createdAt": "2019-11-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Nathalia",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/1dd94b58-dfe9-492f-9bee-dbc68a92b738.jpg?im_w=240"
+                    },
+                    "description": "Would come to this riad again and again!! We felt so welcomed coming to Riad Hadda from the get-go. We were picked up from the airport and taken to this riad in a short 15 minute drive. They welcomed us and before getting us to our room, we were given a tour of the riad and a very detailed explanation of the map of Marrakech and what to expect. The delicious mint tea was also a plus! So good!! The room itself was beautiful and had all the needed amenities. Comfortable bed, big enough restroom, and stylish. We can’t say enough good things about Riad Hadda!"
+                },
+                {
+                    "_id": "r402",
+                    "createdAt": "2019-11-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Collen",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/a86d06d2-beee-44fc-8e61-a1acf0b79660.jpg?im_w=240"
+                    },
+                    "description": "We had an amazing time at this riad. Tariq was incredibly hospitable, the space was beautiful, the food was amazing, and the location was perfect. We’ll definitely be returning next time we go to Marrakech!"
+                },
+                {
+                    "_id": "r403",
+                    "createdAt": "2019-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "daniel",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/c85bc839-cd38-47b1-b079-b2796c275d30.jpg?im_w=240"
+                    },
+                    "description": "A great Riad experience! About 15 minute walk from the main square. Tariq is great and was there 24/7 for all our questions. We were able to walk everywhere in the old city and take a cheap transport to new city."
+                },
+                {
+                    "_id": "r404",
+                    "createdAt": "2019-06-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Lissa",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/a121b24a-11cb-460d-90b6-6a6513f28ecc.jpg?im_w=240"
+                    },
+                    "description": "Mehdi is very sweet and helpful as are the other staff members. The place is absolutely beautiful on the inside. Great experience."
                 }
             ]
         }

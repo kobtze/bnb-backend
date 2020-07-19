@@ -405,6 +405,511 @@
                     "description": "Mehdi is very sweet and helpful as are the other staff members. The place is absolutely beautiful on the inside. Great experience."
                 }
             ]
+        },
+        {
+            "_id": "h45784027",
+            "org-url": "https://www.airbnb.com/rooms/1628564",
+            "name": "Stylish Room w/Couch near Express Train to Midtown",
+            "description": "You'll have privacy and space in your own huge room, in the fridge and cupboards, and in my inviting apartment. This is 1 bedroom in a 4 bedroom. If you have any questions I'm always a text or AirBnB message away. I've lived here for 9 years, and love the neighborhood, the restaurants, the space, and the express train to sites.",
+            "type": "Private room",
+            "capacity": 2,
+            "price": 43,
+            "amenities": [
+                "Wifi",
+                "Dryer",
+                "Hair dryer",
+                "Hangers",
+                "Washer",
+                "Heating",
+                "Essentials"
+            ],
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/77c627bf-aea7-4431-ad1a-7f9f189e2f8e.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/d379e6dd-2513-4fdf-afe1-dc33e5a93a3d.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/35a714d1-26e3-46a4-9242-90a01de93f43.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/f092e427-aa0b-41ec-b2cd-6baf48877da1.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/a43bf1f5-9f39-4ff6-8cee-4f876ff11258.jpg?im_w=1680"
+            ],
+            "host": {
+                "_id": "h106",
+                "name": "Shane",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/78da84d2-e773-446e-a60f-8054d3f8023d.jpg?im_w=240"
+            },
+            "location": {
+                "name": "New York, United States",
+                "lat": 40.712776,
+                "lng": -74.005974
+            },
+            "scores": {
+                "cleanliness": 4.9,
+                "accuracy": 4.9,
+                "communication": 4.9,
+                "location": 4.3,
+                "checkin": 4.9,
+                "value": 4.8,
+                "rating": 4.77
+            },
+            "reviews": [
+                {
+                    "_id": "r601",
+                    "createdAt": "2020-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Jarleyn",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/29659e97-2823-4282-a95a-b9c77a75cfe1.jpg?im_w=240"
+                    },
+                    "description": "It's was a different experience. Shane had good tips of places to go to. The area was lively."
+                },
+                {
+                    "_id": "r602",
+                    "createdAt": "2019-11-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Michael",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/8129b09c-3dd3-479d-aab1-a6c4bc143a6b.jpg?im_w=240"
+                    },
+                    "description": "Shane and Chris's space was perfect for my brisk stay in NYC. Space was well organized for multiple people to stay in one place without really knowing there were other people there, which is not an easy thing to pull off with a single bathroom."
+                },
+                {
+                    "_id": "r603",
+                    "createdAt": "2020-04-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Tiffany",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/c3b19567-77cd-40bf-b6fd-7e7028f63d62.jpg?im_w=240"
+                    },
+                    "description": "Easy stay"
+                },
+                {
+                    "_id": "r601",
+                    "createdAt": "2020-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Latoya",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/7cd81aba-52f5-4403-96b7-008c7cf116f1.jpg?im_w=240"
+                    },
+                    "description": "Awesome awesome and awesome again will definitely stay again."
+                }
+        
+            ]
+        },
+        {
+            "_id": "h45784437",
+            "org-url": "https://www.airbnb.com/rooms/24392338",
+            "name": "Amazing East Village XL Studio Apartment.Scrubbed!",
+            "description": "This is an amazing studio apartment on the ground floor with loft feel. All surfaces wiped and disinfected for your stay during this time. Enjoy these affordable safe accommodations in Manhattan's most exciting, diverse and hippest neighborhood. A Queen size bed perfect for a single traveler or couple with the flexibility of a twin size floor mattress for an additional person. Not upscale, but comfy clean with attention to sterile surfaces. We do not allow guests to have visitors at this time.",
+            "type": "Entire Home",
+            "capacity": 4,
+            "price": 71,
+            "amenities": [
+                "Wifi",
+                "Dryer",
+                "Hair dryer",
+                "Hangers",
+                "Washer",
+                "Laptop-friendly workspace",
+                "Cable TV"
+            ],
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/dc2b6a89-68cf-4579-aa9b-2ff06a62f5ae.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/9e5d8e66-486d-465a-b1e4-7dbe391c9205.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/9c6af591-d00c-452d-9bef-51c7709ce949.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/5022f337-20dc-4bc7-936d-fb8d7d284606.jpg?im_w=720"
+            ],
+            "host": {
+                "_id": "h107",
+                "name": "Joseph",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/35774892-f8e1-43c0-b008-e908371066b5.jpg?im_w=240"
+            },
+            "location": {
+                "name": "New York, United States",
+                "lat": 40.7265,
+                "lng": 73.9815
+            },
+            "scores": {
+                "cleanliness": 4.9,
+                "accuracy": 4.9,
+                "communication": 4.9,
+                "location": 4.3,
+                "checkin": 4.9,
+                "value": 4.8,
+                "rating": 4.72
+            },
+            "reviews": [
+                {
+                    "_id": "r701",
+                    "createdAt": "2020-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Alexa",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/0512e127-f93d-46aa-9a6d-649fa391a470.jpg?im_w=240"
+                    },
+                    "description": "Joseph's place is great! Really spacious and great amenities. Located in a great spot and super accessible to get in and out."
+                },
+                {
+                    "_id": "r702",
+                    "createdAt": "2020-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Emily",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/37dbf375-1301-4146-853f-dd9663150313.jpg?im_w=240"
+                    },
+                    "description": "Joseph’s XL studio was perfect for my business stay in NYC. The check-in process was thorough and simple. I felt safe in the building and it was quiet enough to get some work done. Thanks Joseph!"
+                },
+                {
+                    "_id": "r703",
+                    "createdAt": "2020-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Jay",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/bf85f431-a3c9-4ed3-97a6-dd5457ac44e5.jpg?im_w=240"
+                    },
+                    "description": "Joseph was an incredible host that was very helpful and informative. His place was super clean and in a nice quiet area. I would definitely recommend Joseph's place for anyone looking to spend a night or 2 in NYC."
+                },
+                {
+                    "_id": "r704",
+                    "createdAt": "2020-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Adam",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/ea580440-63a4-4b37-9bd8-2c11c51baf5c.jpg?im_w=240"
+                    },
+                    "description": "Joseph is extremely accommodating and displays great hospitality. His place was as advertised and very clean. Cannot recommend enough."
+                }
+        
+            ]
+        },
+        {
+            "_id": "h45784407",
+            "org-url": "https://www.airbnb.com/rooms/834190",
+            "name": "Manhattan Lux Loft.Like.Love.Lots.Look !",
+            "description":"Downtown, the best bit of Manhattan. One of, if not the, LARGEST space on Airbnb in NYC. Your Own PRIVATE Bathroom & PRIVATE Bedroom, a Terrace off the bedroom, near to subways/buses, restaurants, bars, real luxury right in the middle of things. Just read our 500+ 5-STAR REVIEWS and you will see why we are SUPER-HOSTS and why you will just love this place, like other guests, I promise.",
+            "type": "Entire Home",
+            "capacity": 5,
+            "price": 211,
+            "amenities": [
+                "Wifi",
+                "Indoor fireplace",
+                "Hair dryer",
+                "Elevator",
+                "Washer",
+                "Laptop-friendly workspace",
+                "Cable TV"
+            ],
+           
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/6080d6b0-1cb6-4f44-9776-1892e99c9c81.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b66cde3a-6aa9-4fbd-a77f-3e3f84545cd8.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/27e2a776-b085-4dfa-8ce5-f876c1e09566.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/241b2512-dc45-442e-94c8-3d51d22a8dc3.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b1ea0f53-df48-402c-a752-4a5048ad7021.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/4352dd54-75ee-4c77-905c-4dba31c89414.jpg?im_w=720"
+        
+            ],
+            "host": {
+                "_id": "h108",
+                "name": "Carol",
+                "imgUrl": "https://a0.muscache.com/im/users/2369681/profile_pic/1358911467/original.jpg?im_w=240"
+            },
+            "location": {
+                "name": "New York, United States",
+                "lat": 40.676128,
+                "lng": -73.450752
+            },
+            "scores": {
+                "cleanliness": 4.9,
+                "accuracy": 4.9,
+                "communication": 4.9,
+                "location": 4.3,
+                "checkin": 4.9,
+                "value": 4.8,
+                "rating": 4.95
+            },
+            "reviews": [
+                {
+                    "_id": "r801",
+                    "createdAt": "2020-03-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Matt",
+                        "imgUrl":"https://a0.muscache.com/im/users/27236318/profile_pic/1423099043/original.jpg?im_w=240"
+                    },
+                    "description": "Super nice and spacious apartment in a vibrant neighborhood. We really enjoyed our stay. Carol and Marc were extremely accommodating , helpful and friendly. Super comfy bed too! Would highly recommend!"
+                },
+                {
+                    "_id": "r802",
+                    "createdAt": "2020-03-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Emmanuelle",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/8b899e46-5f7b-4e2a-94aa-4f63642a98ea.jpg?im_w=240"
+                    },
+                    "description": "I had an amazing stay at Carol and Marc’s place. I felt like I was at home or staying with relatives. That’s how comfortable and welcoming they were. The place was as described. Lots of cafes and restaurants within walking distance, very clean. Carol and Marc made great suggestions for breakfast and dinner. They went above and beyond what was expected of them. The bed was so comfortable. I wish the weather was nicer so we could have taken advantage of the terrace (next time). I highly recommend Carol and Marc’s place. This is the place you want to stay when visiting New York. Everything you can think of is just outside there door."
+                },
+                {
+                    "_id": "r803",
+                    "createdAt": "2020-03-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Ann",
+                        "imgUrl":"https://a0.muscache.com/im/users/18457211/profile_pic/1412250478/original.jpg?im_w=240"
+                    },
+                    "description": "This is a large, clean and comfortable 3rd floor apartment with keyed elevator. Felt completely safe walking around at night. Very quiet street. Just 3 blocks to metro and trains taking you uptown. Great coffee shops and lots of cultures and cuisines to explore nearby. The hosts know every nook and cranny of the lower east side, so ask for their recommendations. Would stay there again."
+                },
+                {
+                    "_id": "r804",
+                    "createdAt": "2020-03-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Kathleen",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/0052b3db-fde4-4f0a-92a0-850c020a7807.jpg?im_w=240"
+                    },
+                    "description": "We really enjoyed our stay with Marc and Carol. They both are delightful hosts and had so many suggestions for us first timers to NYC. We were given a guide ahead of time of so many things to do, places to see, and places to eat. Check in was super easy and a bit early, which didn’t seem to be a problem at all this particular day. Marc gave a short tutorial showing us how to get in the building and how to use the elevator. It was great not to have to navigate stairs with suitcases. The apartment was spacious and spotless and we had access to everything we needed. Having shampoo, conditioner, and body wash already there for us to use was nice. Especially since you don’t have to pack it in your suitcase, which makes it a bit lighter for the airport. We didn’t use the kitchen much as we didn’t want to cook for ourselves, but it seemed to have everything you’d need if you did decide to cook. The internet was great and there were lots of choices for tv streaming services. After a long day of walking outside in the cold, it was nice to get back, curl up on the sofa with lots of pillows, have a nice fire in the fireplace, and watch a little tv. Only bad thing was that we didn’t have enough time to see and do all the things we wanted. Well, that means we’ll need to come back and we will have this fantastic place to stay!"
+                }
+        
+            ]
+        },
+        {
+            "_id": "h45184407",
+            "org-url": "https://www.airbnb.com/rooms/28426648",
+            "name": "Shelter in An Incredible Place. ",
+            "type": "Entire Loft",
+            "capacity": 6,
+            "price": 500,
+            "amenities": [
+                "Wifi",
+                "Hair dryer",
+                "Dryer",
+                "Washer",
+                "Laptop-friendly workspace",
+                "Cable TV",
+                "Essentials",
+                "Heating"
+            ],
+           
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/ba761bad-fee8-4207-b250-346f08ce40a6.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/1c157f1c-fcf9-479a-ae32-67f0e74e8081.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/44e7c1d9-bdfe-4e4e-ba2c-c4becfe91a12.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/349d92b1-845d-4984-a79f-20e1352bb9b1.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/10e8fe16-693d-4521-8ece-84b08babf2b0.jpg?im_w=1680"
+            ],
+            "host": {
+                "_id": "h109",
+                "name": "James",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/3bce3da6-faae-4703-8217-9891f5ef2d78.jpg?im_w=240"
+            },
+            "location": {
+                "name": "New York, United States",
+                "lat": 40.676128,
+                "lng": -73.450752
+            },
+            "scores": {
+                "cleanliness": 4.9,
+                "accuracy": 4.9,
+                "communication": 4.9,
+                "location": 4.3,
+                "checkin": 4.9,
+                "value": 4.8,
+                "rating": 4.97
+            },
+            "reviews": [
+                {
+                    "_id": "r901",
+                    "createdAt": "2020-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Anna",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/aec23ef9-7619-44d3-b693-d0af534b9127.jpg?im_w=240"
+                    },
+                    "description": "This beautiful place is amazing, right in the middle of soho. I would stay here again next time."
+                },
+                {
+                    "_id": "r902",
+                    "createdAt": "2020-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Rachel & Sean",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/0758346f-45a8-4420-9ddd-f3c763782fb6.jpg?im_w=240"
+                    },
+                    "description": "Best Soho loft on Airbnb."
+                },
+                {
+                    "_id": "r903",
+                    "createdAt": "2020-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Peter",
+                        "imgUrl":"https://a0.muscache.com/im/users/25106887/profile_pic/1423765580/original.jpg?im_w=240"
+                    },
+                    "description": "The apartment is above and beyond the pictures. This is the New York City experience in its greatest grandeur. As a host , it’s impossible to surpass the service, hospitality and courtesy James provides. It was the best Airbnb trip I’ve ever had hands down."
+                },
+                {
+                    "_id": "r904",
+                    "createdAt": "2020-05-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Laila",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/6b9e3265-4df9-4370-9ece-8ffa7c9005e1.jpg?im_w=240"
+                    },
+                    "description": "I highly recommend James’ place. Exactly as described and pictured. Great communication. Thank you."
+                }
+            ]
+        },
+        {
+            "_id": "h45194407",
+            "org-url": "https://www.airbnb.com/rooms/1932459",
+            "name": "Fantastic Central Park View Sleeps",
+            "description": "Fantastic Central Park view very Luxury 2 BR 2 Bath.n the 5 star building High Floor large windows , excellent light",
+            "type": "Entire apartment",
+            "capacity": 5,
+            "price": 599,
+            "amenities": [
+                "Wifi",
+                "Hair dryer",
+                "Dryer",
+                "Washer",
+                "Laptop-friendly workspace",
+                "Cable TV",
+                "Essentials",
+                "Heating",
+                "Gym",
+                "Hot tub",
+                "Paid parking on premises"
+            ],
+           
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/26798865/1f0d8bc9_original.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/32458933/5760917b_original.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/32458981/6098426b_original.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/32458973/5d0c7c00_original.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/32458975/78d3d975_original.jpg?im_w=1680"
+            ],
+            "host": {
+                "_id": "h110",
+                "name": "David",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/5b0d79bf-394c-402f-88aa-23640736c4c3.jpg?im_w=240"
+            },
+            "location": {
+                "name": "New York, United States",
+                "lat": 40.782715,
+                "lng": -73.958017
+            },
+            "scores": {
+                "cleanliness": 4.9,
+                "accuracy": 4.9,
+                "communication": 4.9,
+                "location": 4.3,
+                "checkin": 4.0,
+                "value": 4.8,
+                "rating": 4.70
+            },
+            "reviews": [
+                {
+                    "_id": "r1001",
+                    "createdAt": "2020-02-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "laurie",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/80cdad16-1bce-4480-89bf-33624d6fba37.jpg?im_w=240"
+                    },
+                    "description": "Wonderful space! Beautiful view of the park. Convenient to walk to everything. David was super easy to communicate with and made our stay easy. Definitely would stay here again. Lovely apartment."
+                },
+                {
+                    "_id": "r1002",
+                    "createdAt": "2020-07-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Georgienne",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/0758346f-45a8-4420-9ddd-f3c763782fb6.jpg?im_w=240"
+                    },
+                    "description": "Best view in New York City! Wow, the stuff memories are made of. It is super easy to get in and out of the apartment. Best if you are looking for a place for a couple and one single. The couches are not suited for sleeping."
+                },
+                {
+                    "_id": "r1003",
+                    "createdAt": "2020-12-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Holly",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/707d0e1e-a7ff-450e-9811-cdfdf96b43ff.jpg?im_w=240"
+                    },
+                    "description": "David's place was great- we traveled as a family of four, and the layout of the apartment worked perfectly for us. The space had everything we needed and gave us plenty of room to spread out. The two bathrooms were particularly helpful. The view is, as others have noted, spectacular, and the location is amazing. Truly a wonderful place to stay while visiting NYC."
+                },
+                {
+                    "_id": "r1004",
+                    "createdAt": "2019-11-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Meredith",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/6b9e3265-4df9-4370-9ece-8ffa7c9005e1.jpg?im_w=240"
+                    },
+                    "description": "The location, view and apartment are wonderful. The kitchen is an efficiency kitchen and really not for cooking but who cooks while in Manhattan. The second bedroom is not a true bedroom - it is where the dining room was and has false walls put up that do not go all the way to the ceiling. Nonetheless it is still a large living room and the master bedroom is spacious. Both bathrooms are great. We needed one extra bed so the host had an air mattress set up for us on arrival. My only complaint was that the host was very hard to get in touch with. At one point I had to have Air BnB reach out to him in order to get a response and was on the verge of cancelling since the unresponsiveness made me very nervous. Now that I am familiar with the host and the space I would honestly rent again because it really is the perfect space for my family of five while staying in the city and you have all the amenities of the hotel - room service, gum, etc."
+                }
+            ]
+        },
+        {
+            "_id": "h75194407",
+            "org-url": "https://www.airbnb.com/rooms/38779829",
+            "name": "Chic 1 BR , Penn St & Hudson Yards.",
+            "description": "Fantastic Central Park view very Luxury 2 BR 2 Bath.n the 5 star building High Floor large windows , excellent light",
+            "type": "Entire apartment",
+            "capacity": 4,
+            "price": 67,
+            "amenities": [
+                "Wifi",
+                "Hair dryer",
+                "Dryer",
+                "Washer",
+                "Laptop-friendly workspace",
+                "Cable TV",
+                "Essentials",
+                "Heating",
+                "Paid parking on premises"
+            ],
+            "imgUrls": [
+                "https://a0.muscache.com/im/pictures/35c87913-a5b0-48c2-9449-5310248cb02e.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/b8260285-eacf-4396-b912-679964b2db6c.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/740a3582-6ac1-4ae0-88a1-a7b2b33703a3.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/33e945f6-3700-4b7c-ad2d-d12456c09cce.jpg?im_w=1680",
+                "https://a0.muscache.com/im/pictures/1131d5e7-7c71-4805-bf77-080b4d037709.jpg?im_w=1680"
+            ],
+            "host": {
+                "_id": "h1002",
+                "name": "Amalia",
+                "imgUrl": "https://a0.muscache.com/im/pictures/user/4f0c77c0-8b22-49cd-af79-edd2d14bdce8.jpg?im_w=240"
+            },
+            "location": {
+                "name": "New York, United States",
+                "lat": 40.754521,
+                "lng": -74.003491
+            },
+            "scores": {
+                "cleanliness": 5,
+                "accuracy": 4.9,
+                "communication": 4.9,
+                "location": 4.3,
+                "checkin": 4.4,
+                "value": 4.2,
+                "rating": 4.85
+            },
+            "reviews": [
+                {
+                    "_id": "r1001",
+                    "createdAt": "2020-04-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Jay",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/1893c98e-6c64-44bd-9e21-ea4dc33e78cf.jpg?im_w=240"
+                    },
+                    "description": "I had a wonderful stay at Amalia's place. You definitely get exactly what you see in the photos— a clean, comfortable and beautifully-appointed apartment. Amalia is a warm and hospitable host."
+                },
+                {
+                    "_id": "r1002",
+                    "createdAt": "2020-03-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Federico",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/54229b4b-9b55-4069-bc6e-07a29930803b.jpg?im_w=240"
+                    },
+                    "description": "Apartment was immaculate! Super clean. You have everything you will need. Amalia and Matty were outstanding hosts. Always ready for what we needed. Great location, close by everything. Completely recommended. We will back to Amalias place soon. We feel like home. Thank you!!"
+                },
+                {
+                    "_id": "r1003",
+                    "createdAt": "2020-02-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Garrett",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/5d4f58c7-fb55-46fa-b65b-b70b56498746.jpg?im_w=240"
+                    },
+                    "description": "She made it very easy. She’s got it all together to make your trip about your trip and have no worries about the place you’re staying. Good communication. I kept finding myself liking items in the place."
+                },
+                {
+                    "_id": "r1004",
+                    "createdAt": "2020-03-10T05:00:00.000Z",
+                    "byUser": {
+                        "name": "Emma",
+                        "imgUrl":"https://a0.muscache.com/im/pictures/user/3e962637-b566-41fe-9002-ab79e834def8.jpg?im_w=240"
+                    },
+                    "description": "Amalia's apartment is lovely and very nicely furnished. Really comfortable and very clean, and in a convenient NYC location. Highly recommend. Thank you!"
+                }
+            ]
         }
     ],
     "order": [

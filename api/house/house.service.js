@@ -112,6 +112,6 @@ async function add(house) {
 function _buildCriteria(filterBy) {
     const criteria = {};
     if (filterBy.name) criteria.name = { $regex: new RegExp(filterBy.name, 'i') };
-    console.log('toy.service criteria:', criteria)
+    console.log('house.service criteria:', criteria)
     return criteria;
 }

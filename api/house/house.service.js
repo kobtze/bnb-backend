@@ -94,18 +94,24 @@ async function add(house) {
     }
 }
 
+// function _buildCriteria(filterBy) {
+//     const criteria = {};
+
+
+//     if (filterBy.name) {
+//         var filterName = new RegExp(filterBy.name, 'i');
+//         criteria.name = { $regex: filterName }
+//     }
+//     // if (filterBy.name) criteria.name = {'$regex': `.*${filterBy.name}.*\i`}
+//     if (filterBy.type !== 'all') criteria.type = filterBy.type
+//     if (filterBy.inStock !== 'all') {
+//         criteria.inStock = (filterBy.inStock === 'inStock') ? true : false
+//     }
+//     return criteria;
+// }
 function _buildCriteria(filterBy) {
     const criteria = {};
-
-
-    if (filterBy.name) {
-        var filterName = new RegExp(filterBy.name, 'i');
-        criteria.name = { $regex: filterName }
-    }
-    // if (filterBy.name) criteria.name = {'$regex': `.*${filterBy.name}.*\i`}
-    if (filterBy.type !== 'all') criteria.type = filterBy.type
-    if (filterBy.inStock !== 'all') {
-        criteria.inStock = (filterBy.inStock === 'inStock') ? true : false
-    }
+    if (filterBy.name) criteria.name = { $regex: new RegExp(filterBy.name, 'i') };
+    console.log('toy.service criteria:', criteria)
     return criteria;
 }

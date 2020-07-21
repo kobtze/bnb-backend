@@ -114,14 +114,9 @@ async function add(house) {
 //     return criteria;
 // }
 function _buildCriteria(filterBy) {
-    const criteria = {
-     location:{
-        name:'',
-     }
-    } ;
+    const criteria = {} ;
     console.log('filterBy',filterBy)
-    if (filterBy.location) criteria.location.name = { $regex: new RegExp(filterBy.location, 'i') };
-    // if (filterBy.adultNumber) criteria.capacity += filterBy.adultNumber
+    if (filterBy.location) criteria.location = { $regex: new RegExp(filterBy.location, 'i') };
     console.log('house.service criteria:', criteria)
     return criteria;
 }

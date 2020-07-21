@@ -13,6 +13,7 @@ module.exports = {
 
 async function query(filterBy = {}) {
     console.log('HOUSE.SERVICE BACKEND', filterBy);
+
     const criteria = _buildCriteria(filterBy)
         // var prop = (filterBy.sort === 'price') ? 'price' : 'name';
         // var order = (filterBy.order === 'desc') ? -1 : 1;
@@ -20,13 +21,14 @@ async function query(filterBy = {}) {
         //     [prop]: order
         // }
     const collection = await dbService.getCollection('house')
-
+    console.log('collection', collection);
     try {
         // const houses = await collection.find().toArray();
         // const houses = await collection.find(criteria).sort(sortBy).toArray();
 
         const houses = await collection.find(criteria).toArray();
-        console.log(houses);
+        // console.log('criteria:', criteria);
+        // console.log('houses', houses);
         return houses
     } catch (err) {
         console.log('ERROR: cannot find houses')
@@ -115,8 +117,10 @@ async function add(house) {
 // }
 function _buildCriteria(filterBy) {
     const criteria = {};
-    console.log('filterBy', filterBy)
-    if (filterBy.location) criteria.location = { $regex: new RegExp(filterBy.location, 'i') };
-    console.log('house.service criteria:', criteria)
+    //  console.log('filterBy', filterBy)
+    if (filterBy.location) criteria['location.name'] = { $regex: new RegExp(filterBy.location, 'i') };
+    console.log(criteria, 'string inside build crite')
+
+    // console.log('house.service criteria:', criteria)
     return criteria;
 }

@@ -12,17 +12,21 @@ module.exports = {
 }
 
 async function query(filterBy = {}) {
+    console.log('HOUSE.SERVICE BACKEND',filterBy);
     const criteria = _buildCriteria(filterBy)
-    var prop = (filterBy.sort === 'price') ? 'price' : 'name';
-    var order = (filterBy.order === 'desc') ? -1 : 1;
-    var sortBy = {
-        [prop]: order
-    }
+    // var prop = (filterBy.sort === 'price') ? 'price' : 'name';
+    // var order = (filterBy.order === 'desc') ? -1 : 1;
+    // var sortBy = {
+    //     [prop]: order
+    // }
     const collection = await dbService.getCollection('house')
 
     try {
-        const houses = await collection.find().toArray();
+        // const houses = await collection.find().toArray();
         // const houses = await collection.find(criteria).sort(sortBy).toArray();
+        
+        const houses = await collection.find(criteria).toArray();
+        console.log(houses);
         return houses
     } catch (err) {
         console.log('ERROR: cannot find houses')
@@ -45,7 +49,7 @@ async function getById(houseId) {
 
         return house
     } catch (err) {
-        console.log(`ERROR: while finding house ${houseId}`)
+       // console.log(`ERROR: while finding house ${houseId}`)
         throw err;
     }
 }
@@ -65,7 +69,7 @@ async function remove(houseId) {
     try {
         await collection.deleteOne({ "_id": ObjectId(houseId) })
     } catch (err) {
-        console.log(`ERROR: cannot remove house: ${houseId}`)
+       // console.log(`ERROR: cannot remove house: ${houseId}`)
         throw err;
     }
 }
@@ -78,7 +82,7 @@ async function update(house) {
         await collection.replaceOne({ "_id": house._id }, { $set: house })
         return house
     } catch (err) {
-        console.log(`ERROR: cannot update house ${house._id}`)
+       // console.log(`ERROR: cannot update house ${house._id}`)
         throw err;
     }
 }
@@ -89,7 +93,7 @@ async function add(house) {
         await collection.insertOne(house);
         return house;
     } catch (err) {
-        console.log(`ERROR: cannot insert house`)
+     //   console.log(`ERROR: cannot insert house`)
         throw err;
     }
 }
@@ -110,8 +114,14 @@ async function add(house) {
 //     return criteria;
 // }
 function _buildCriteria(filterBy) {
-    const criteria = {};
-    if (filterBy.name) criteria.name = { $regex: new RegExp(filterBy.name, 'i') };
+    const criteria = {
+     location:{
+        name:'',
+     }
+    } ;
+    console.log('filterBy',filterBy)
+    if (filterBy.location) criteria.location.name = { $regex: new RegExp(filterBy.location, 'i') };
+    // if (filterBy.adultNumber) criteria.capacity += filterBy.adultNumber
     console.log('house.service criteria:', criteria)
     return criteria;
 }

@@ -7,9 +7,7 @@ async function getHouse(req, res) {
 }
 
 async function getHouses(req, res) {
-    // console.log('query at gethouses', req.query);
     const houses = await houseService.query(req.query)
-    logger.debug(houses);
     res.json(houses)
 }
 

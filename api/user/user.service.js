@@ -20,7 +20,7 @@ async function query(filterBy = {}) {
 
         return users
     } catch (err) {
-        console.log('ERROR: cannot find users')
+
         throw err;
     }
 }

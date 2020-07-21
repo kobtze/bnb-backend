@@ -1,4 +1,5 @@
 const logger = require('../services/logger.service')
+const session = require('express-session')
 
 async function requireAuth(req, res, next) {
     if (!req.session || !req.session.user) {

@@ -29,19 +29,19 @@ if (process.env.NODE_ENV === 'production') {
     app.use(cors(corsOptions));
 }
 
-// const authRoutes = require('./api/auth/auth.routes')
+const authRoutes = require('./api/auth/auth.routes')
 const houseRoutes = require('./api/house/house.routes')
-    // const userRoutes = require('./api/user/user.routes')
-    // const reviewRoutes = require('./api/review/review.routes')
-    // const connectSockets = require('./api/socket/socket.routes')
+const userRoutes = require('./api/user/user.routes')
+const reviewRoutes = require('./api/review/review.routes')
+const connectSockets = require('./api/socket/socket.routes')
 
 
 // routes
-// app.use('/api/auth', authRoutes)
+app.use('/api/auth', authRoutes)
 app.use('/api/house', houseRoutes)
-    // app.use('/api/user', userRoutes)
-    // app.use('/api/review', reviewRoutes)
-    // connectSockets(io)
+app.use('/api/user', userRoutes)
+app.use('/api/review', reviewRoutes)
+connectSockets(io)
 
 
 

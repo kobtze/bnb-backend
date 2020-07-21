@@ -12,17 +12,23 @@ module.exports = {
 }
 
 async function query(filterBy = {}) {
-    const criteria = _buildCriteria(filterBy)
-    var prop = (filterBy.sort === 'price') ? 'price' : 'name';
-    var order = (filterBy.order === 'desc') ? -1 : 1;
-    var sortBy = {
-        [prop]: order
-    }
-    const collection = await dbService.getCollection('house')
+    console.log('HOUSE.SERVICE BACKEND', filterBy);
 
+    const criteria = _buildCriteria(filterBy)
+        // var prop = (filterBy.sort === 'price') ? 'price' : 'name';
+        // var order = (filterBy.order === 'desc') ? -1 : 1;
+        // var sortBy = {
+        //     [prop]: order
+        // }
+    const collection = await dbService.getCollection('house')
+    console.log('collection', collection);
     try {
-        const houses = await collection.find().toArray();
+        // const houses = await collection.find().toArray();
         // const houses = await collection.find(criteria).sort(sortBy).toArray();
+
+        const houses = await collection.find(criteria).toArray();
+        // console.log('criteria:', criteria);
+        // console.log('houses', houses);
         return houses
     } catch (err) {
         console.log('ERROR: cannot find houses')
@@ -45,7 +51,7 @@ async function getById(houseId) {
 
         return house
     } catch (err) {
-        console.log(`ERROR: while finding house ${houseId}`)
+        // console.log(`ERROR: while finding house ${houseId}`)
         throw err;
     }
 }
@@ -65,7 +71,7 @@ async function remove(houseId) {
     try {
         await collection.deleteOne({ "_id": ObjectId(houseId) })
     } catch (err) {
-        console.log(`ERROR: cannot remove house: ${houseId}`)
+        // console.log(`ERROR: cannot remove house: ${houseId}`)
         throw err;
     }
 }
@@ -78,7 +84,7 @@ async function update(house) {
         await collection.replaceOne({ "_id": house._id }, { $set: house })
         return house
     } catch (err) {
-        console.log(`ERROR: cannot update house ${house._id}`)
+        // console.log(`ERROR: cannot update house ${house._id}`)
         throw err;
     }
 }
@@ -89,23 +95,32 @@ async function add(house) {
         await collection.insertOne(house);
         return house;
     } catch (err) {
-        console.log(`ERROR: cannot insert house`)
+        //   console.log(`ERROR: cannot insert house`)
         throw err;
     }
 }
 
+// function _buildCriteria(filterBy) {
+//     const criteria = {};
+
+
+//     if (filterBy.name) {
+//         var filterName = new RegExp(filterBy.name, 'i');
+//         criteria.name = { $regex: filterName }
+//     }
+//     // if (filterBy.name) criteria.name = {'$regex': `.*${filterBy.name}.*\i`}
+//     if (filterBy.type !== 'all') criteria.type = filterBy.type
+//     if (filterBy.inStock !== 'all') {
+//         criteria.inStock = (filterBy.inStock === 'inStock') ? true : false
+//     }
+//     return criteria;
+// }
 function _buildCriteria(filterBy) {
     const criteria = {};
+    //  console.log('filterBy', filterBy)
+    if (filterBy.location) criteria['location.name'] = { $regex: new RegExp(filterBy.location, 'i') };
+    console.log(criteria, 'string inside build crite')
 
-
-    if (filterBy.name) {
-        var filterName = new RegExp(filterBy.name, 'i');
-        criteria.name = { $regex: filterName }
-    }
-    // if (filterBy.name) criteria.name = {'$regex': `.*${filterBy.name}.*\i`}
-    if (filterBy.type !== 'all') criteria.type = filterBy.type
-    if (filterBy.inStock !== 'all') {
-        criteria.inStock = (filterBy.inStock === 'inStock') ? true : false
-    }
+    // console.log('house.service criteria:', criteria)
     return criteria;
 }

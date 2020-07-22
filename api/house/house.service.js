@@ -75,8 +75,10 @@ function _buildCriteria(filterBy) {
     const criteria = {};
 
     //search filter
-    if (filterBy.location) criteria['location.name'] = { $regex: new RegExp(filterBy.location, 'i') };
 
+    criteria['location.name'] = { $regex: new RegExp(filterBy.location, 'i') };
+
+    console.log('criteria[location.name]', criteria);
     //capacity filter
     var visitors = 0;
     if (filterBy.adultNumber) visitors += +filterBy.adultNumber;

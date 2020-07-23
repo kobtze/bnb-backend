@@ -9,8 +9,9 @@ module.exports = router
 
 router.get('/', getHouses)
 router.get('/:id', getHouse)
-    // router.put('/:id', updateHouse)
+router.put('/:id', updateHouse)
     // router.post('/', requireAdmin, addHouse)
     // router.delete('/:id', requireAdmin, deleteHouse)
+router.delete('/:id', deleteHouse)
     // router.put('/:id',  requireAuth, updateUser)
     // router.delete('/:id',  requireAuth, requireAdmin, deleteUser)

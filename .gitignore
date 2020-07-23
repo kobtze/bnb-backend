@@ -1,3 +1,3 @@
 /node_modules
-/bnb-backend/logs
-
+/logs/backend.log
+logs/backend.log

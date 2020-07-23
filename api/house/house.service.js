@@ -12,7 +12,7 @@ module.exports = {
 }
 
 async function query(filterBy = {}) {
-    console.log('HOUSE.SERVICE BACKEND', filterBy);
+    // console.log('HOUSE.SERVICE BACKEND', filterBy);
 
     const criteria = _buildCriteria(filterBy)
         // var prop = (filterBy.sort === 'price') ? 'price' : 'name';
@@ -21,7 +21,7 @@ async function query(filterBy = {}) {
         //     [prop]: order
         // }
     const collection = await dbService.getCollection('house')
-    console.log('collection', collection);
+    // console.log('collection', collection);
     try {
         // const houses = await collection.find().toArray();
         // const houses = await collection.find(criteria).sort(sortBy).toArray();

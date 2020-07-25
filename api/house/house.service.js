@@ -20,7 +20,8 @@ async function query(filterBy = {}) {
         const houses = await collection.find(criteria).toArray();
         if (houses.length === 0) {
             console.log('0 houses');
-            return await collection.find({ 'location.name': { $regex: new RegExp('', 'i') } })
+            return collection.find({ 'location.name': { $regex: new RegExp('', 'i') } })
+
         }
         return houses;
     } catch (err) {

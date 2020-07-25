@@ -6,8 +6,8 @@
     "scripts": {
         "server:dev": "NODE_ENV=development nodemon app.js",
         "server:prod": "node app.js",
-        "start": "nodemon run server.js",
-        "start node ": "node server.js"
+        "start-nodemon": "nodemon run server.js",
+        "start": "node server.js"
     },
     "author": "moshe pinhasi",
     "license": "ISC",
